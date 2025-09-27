@@ -1,3 +1,7 @@
+
+<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMno0OTUzZGdhODhhc3dvY2h1ajF0N21wd3N2MGxhNHQzN3pqbGN4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/U4w70V3qqkZn8A0OwX/giphy.gif" width="200%" />
+</div>
 👋 I'm Elyas , Senior generative AI engineer with focus on developing Multi-Agentic AI application , pluging tools to supercharge AI , making the Impossible , Possible!
 
 ### 💫 About Me:
@@ -19,12 +23,6 @@ Problem-solving, decision-making, and finding flow between focus & teamwork.
 ⚡ Fun fact
 I recharge solo, but thrive in challenges that push me to adapt and create.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elyasmoshirpanahi) 
